@@ -1,0 +1,10 @@
+---
+layout: page
+title: "M1 Mac Sample"
+permalink: /hoge/
+---
+
+# M1 Macで書きました
+
+m1 mac で書いた記事です。
+
